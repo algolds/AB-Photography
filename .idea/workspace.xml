@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="050a3a0a-1ddb-476e-8420-773448743eef" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-dark.png" afterPath="$PROJECT_DIR$/images/logo-dark.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index05.html" afterPath="$PROJECT_DIR$/index05.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/intro-image-carousel.css" afterPath="$PROJECT_DIR$/stylesheets/intro-image-carousel.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="polo-v1.0-template.iws" />
@@ -28,8 +28,8 @@
       <file leaf-file-name="index05.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index05.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43683085">
-              <caret line="122" column="18" selection-start-line="122" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+            <state vertical-scroll-proportion="3.493576">
+              <caret line="209" column="75" selection-start-line="209" selection-start-column="75" selection-end-line="209" selection-end-column="75" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#a#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -64,8 +64,8 @@
         <option value="$PROJECT_DIR$/stylesheets/main.css" />
         <option value="$PROJECT_DIR$/stylesheets/owl.carousel.css" />
         <option value="$PROJECT_DIR$/stylesheets/image-blur-effect.css" />
-        <option value="$PROJECT_DIR$/index05.html" />
         <option value="$PROJECT_DIR$/stylesheets/intro-image-carousel.css" />
+        <option value="$PROJECT_DIR$/index05.html" />
       </list>
     </option>
   </component>
@@ -326,7 +326,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432400912368</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FINALLY FIXED  THE DAMN INTRO SLIDER FTW">
+      <created>1432402028992</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1432402028992</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -396,7 +402,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="header work&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="header work&#10;" />
+    <MESSAGE value="FINALLY FIXED  THE DAMN INTRO SLIDER FTW" />
+    <option name="LAST_COMMIT_MESSAGE" value="FINALLY FIXED  THE DAMN INTRO SLIDER FTW" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -648,8 +655,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index05.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43683085">
-          <caret line="122" column="18" selection-start-line="122" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        <state vertical-scroll-proportion="3.493576">
+          <caret line="209" column="75" selection-start-line="209" selection-start-column="75" selection-end-line="209" selection-end-column="75" />
           <folding>
             <element signature="n#style#0;n#div#0;n#a#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
